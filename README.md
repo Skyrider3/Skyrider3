@@ -1,14 +1,11 @@
 ### Hi there 👋 
 ### This is Edara Umamaheswar!
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Skyrider3)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/umamaheswar-e-innovator)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:umamahesh1024@gmail.com)
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-umamahesh-red?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/umamaheswar-e-innovator)](https://www.linkedin.com/in/umamaheswar-e-innovator/) 
+[![Linkedin Badge](https://img.shields.io/badge/-umamahesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/umamaheswar-e-innovator)](https://www.linkedin.com/in/umamaheswar-e-innovator/) 
 [![Medium Badge](https://img.shields.io/badge/-umamahesh-green?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@umamahesh1024/)](https://medium.com/@umamahesh1024/)
-[![Gmail Badge](https://img.shields.io/badge/-umamahesh-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:umamahesh1024@gmail.com)](mailto:umamahesh1024@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-umamahesh-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:umamahesh1024@gmail.com)](mailto:umamahesh1024@gmail.com)
 
 
 
