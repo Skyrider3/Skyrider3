@@ -6,9 +6,9 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:umamahesh1024@gmail.com)
 
 
-[Linkedin Badge](https://img.shields.io/badge/-kunalraghav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/umamaheswar-e-innovator)](https://www.linkedin.com/in/umamaheswar-e-innovator/) [![Medium Badge]
-(https://img.shields.io/badge/-@KunalRaghav-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@umamahesh1024/)](https://medium.com/@umamahesh1024/)
-[![Gmail Badge](https://img.shields.io/badge/-kraghav123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:umamahesh1024@gmail.com)](mailto:umamahesh1024@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-umamahesh-red?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/umamaheswar-e-innovator)](https://www.linkedin.com/in/umamaheswar-e-innovator/) 
+[![Medium Badge](https://img.shields.io/badge/-@KunalRaghav-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@umamahesh1024/)](https://medium.com/@umamahesh1024/)
+[![Gmail Badge](https://img.shields.io/badge/-umamahesh1024@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:umamahesh1024@gmail.com)](mailto:umamahesh1024@gmail.com)
 
 
 
