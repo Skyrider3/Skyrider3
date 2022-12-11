@@ -20,15 +20,15 @@ img align="right" alt="img" src="add a jpg if you want" width="50%" height="auto
 - Building Data Science and Machine Learning Projects
 - Building Financial Products using AI & Machine Learning
 - Research on Deep Learning
-- understanding Neuropsychology and relating it to build deep learning models
+- understanding Neuropsychology and relating it to build Deep learning models
 
 
 #### :muscle: Things I am challenging myself with:
 - Coding at least 4 hours a day
 - Exercising 6 days a week
 - Diging deep into deep learning and building models
-- Complete 1 book a week
-- learning how to Dance
+- Completing 1 book a week
+- learning how to Dance and Drink
 
 #### :computer: Programming languages and tools: 
 <p>
